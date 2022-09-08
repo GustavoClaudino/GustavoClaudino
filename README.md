@@ -1,8 +1,8 @@
 # Olá!! Eu sou o Guh
 
-- 🔭  Hoje estou trabalhando na  aeronautica, porém ansisoso  para entrar nesse mundo de Devs!!!
+- 🔭 Ansisoso para entrar nesse mundo de Devs!!!
 - 🌱 Estudando C# ASP.Net SQL
-- 👯 Estou procurando ingressar no mercado de trabalho como JR como Dev backend!! 
+- 👯 Estou procurando ingressar no mercado de trabalho como Junior ou estagiario sendo Dsenvolvedor Back-End! 
 - 📫 contate-me no email: gustavo240697@gmail.com 
 - 😄 se quiser conhecer mais meu perfil: https://www.linkedin.com/in/gustavo-alves-claudino-74670b21b/
 - <div align="center">
