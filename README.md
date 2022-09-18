@@ -1,8 +1,7 @@
 # Olá!! Eu sou o Guh
 
-- 🔭 Ansisoso para entrar nesse mundo de Devs!!!
+- 🔭 Desenvolvedor .Net !!!
 - 🌱 Estudando C# ASP.Net SQL
-- 👯 Estou procurando ingressar no mercado de trabalho como Junior ou estagiario sendo DEsenvolvedor Back-End! 
 - 📫 contate-me no email: gustavo240697@gmail.com 
 - 😄 se quiser conhecer mais meu perfil: https://www.linkedin.com/in/gustavo-alves-claudino-74670b21b/
 - <div align="center">
